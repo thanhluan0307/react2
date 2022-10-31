@@ -1,0 +1,45 @@
+.loginOut {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.user_wrapper{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  column-gap: 5px;
+}
+.user-wrapper {
+  
+  display: flex;
+  column-gap: 50px;
+  align-items: center;
+}
+.body {
+  margin-top: -320px;
+  transition: all 0.3s linear;
+  opacity: 0;
+}
+.pagination {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+.mass {
+  position: absolute;
+  position: absolute;
+  z-index: 1;
+  right: 1%;
+  top: -3%;
+  color: white;
+}
+.nav {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav p {
+  margin: 0;
+}
